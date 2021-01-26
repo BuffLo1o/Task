@@ -1,2 +1,2 @@
 # Task
-Решения заданий.
+solving tasks
